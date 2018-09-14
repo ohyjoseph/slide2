@@ -4,7 +4,7 @@ class FriendList extends Component {
   constructor(props) {
     super(props);
     this.state = {
-      friends: ['joseph', 'matt', 'dad']
+      friends: ['joseph', 'matt', 'dad', 'calvin']
     }
   }
   render() {
